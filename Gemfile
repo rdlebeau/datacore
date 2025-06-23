@@ -23,6 +23,8 @@ gem 'mysql2' # still somehow in 0.x releases...
 
 gem 'config'
 
+gem 'simplecov', require: false, group: :test
+
 # Date range support
 gem 'edtf'
 
